@@ -128,12 +128,6 @@ streamlit run app.py
 
 ---
 
-### **License**
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ### **Contact**
 
-For queries or support, contact [Your Name](mailto:your.email@example.com).
+For queries or support, contact [Manahil Siddiqui](mailto:manahalsiddiqui.com).
