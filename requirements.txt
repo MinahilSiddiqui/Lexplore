@@ -1,0 +1,38 @@
+# Streamlit for UI
+streamlit
+
+# Environment variable loader
+python-dotenv
+
+# PDF handling
+PyMuPDF
+
+# Web scraping
+beautifulsoup4
+requests
+
+# Langchain & vector storage
+langchain
+chromadb
+faiss-cpu
+
+# Embeddings & Transformers
+sentence-transformers
+transformers
+torch  # Needed by sentence-transformers
+
+# Text splitting and document parsing
+tqdm  # Progress bar
+numpy
+
+# Translation
+deep-translator
+
+# Text-to-Speech
+gTTS
+
+# Audio & Speech Recognition
+speechrecognition
+pyaudio  # Required by speechrecognition for microphone input (platform-specific)
+
+
